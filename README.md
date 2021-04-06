@@ -1,2 +1,2 @@
 # laccases
-The source code and data set for the analy of laccases
+The source code and data set for the analyse of laccases
