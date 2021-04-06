@@ -1,0 +1,7 @@
+>> hist(t2,10);
+>> hold on
+>> hist(t3,10)
+>> hist(t3,10,'r')
+>> hist(t3,10,'r')
+>> hold on
+>>  hist(t2,10);
